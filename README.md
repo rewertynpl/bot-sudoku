@@ -1,3 +1,3 @@
 # bot-sudoku
-# 2marcin56@gmail.com
+# marcinmatysek1@gmail.com
 # for easy levels sudoku
